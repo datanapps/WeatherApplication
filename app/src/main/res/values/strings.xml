@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WeatherApplication</string>
+
+
+
+    <string name="humidity">Humidity : %s</string>
+    <string name="weather_des">Weather Description  :  %s</string>
+    <string name="weather_temp">Weather Temp :  %s</string>
+    <string name="msg_something_went_wrong">Sorry something went wrong.</string>
+    <string name="msg_server_error">Server Error.</string>
+    <string name="msg_unknown">Unknown</string>
+    <string name="msg_no_internet_network">No network connection</string>
+
+
+</resources>
