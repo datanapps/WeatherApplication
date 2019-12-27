@@ -8,7 +8,7 @@ An app to enter city name and you can get weather detail of entered city name
 
 
 ### Screens : 
-<img src="https://github.com/datanapps/WeatherApplication/blob/master/screens/screen_1.png" height="500" width="250"><img src="https://github.com/datanapps/WeatherApplication/blob/master/screens/screen_2.png" height="500" width="250">
+<img src="https://github.com/datanapps/WeatherApplication/blob/master/screens/screen_1.png" height="500" width="250">  <img src="https://github.com/datanapps/WeatherApplication/blob/master/screens/screen_2.png" height="500" width="250">
 
 
 
