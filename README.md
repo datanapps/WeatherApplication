@@ -8,13 +8,13 @@ An app to enter city name and you can get weather detail of entered city name
 
 
 ### Screens : 
-<img src="https://github.com/123Yogendra/WeatherApplication/blob/master/screens/screen_1.png" height="600" width="300">
-<img src="https://github.com/123Yogendra/WeatherApplication/blob/master/screens/screen_2.png" height="600" width="300">
+<img src="https://github.com/datanapps/WeatherApplication/blob/master/screens/screen_1.png" height="600" width="300">
+<img src="https://github.com/datanapps/WeatherApplication/blob/master/screens/screen_2.png" height="600" width="300">
 
 
 #### APK :
 
-https://github.com/123Yogendra/WeatherApplication/blob/master/builddetail/release/app-release.apk
+https://github.com/datanapps/WeatherApplication/blob/master/builddetail/release/app-release.apk
 
 
 
