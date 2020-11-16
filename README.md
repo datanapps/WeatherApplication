@@ -11,6 +11,9 @@ An app to enter city name and you can get weather detail of entered city name
 <img src="https://github.com/datanapps/WeatherApplication/blob/master/screens/screen_1.png" height="500" width="250">  <img src="https://github.com/datanapps/WeatherApplication/blob/master/screens/screen_2.png" height="500" width="250">
 
 
+#### API :
+http://api.worldweatheronline.com/premium/v1/weather.ashx?key=20a1ba28fc244d2786875745191811&q=London&format=json&num_of_days=1
+
 
 #### APK :
 
